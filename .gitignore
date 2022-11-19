@@ -1,0 +1,4 @@
+*.dll
+Migrations/
+obj/
+.vs/
